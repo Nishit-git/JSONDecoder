@@ -6,4 +6,4 @@ Program to decode a Json file full of Arrays and Dictionaries
 
 Decodes Arrays and Dictionaries for a complex Json file.
 
-Note: In Swift, variable names cannot be named using a special character unless '_' is used.
+Note: In Swift, variable names cannot be named using a special character although underscore '_' can be used.
